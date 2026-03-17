@@ -7,8 +7,26 @@ Hemos reducido componentes al mínimo para poder ofrecer este pequeño Zepelin d
 
 https://github.com/user-attachments/assets/bfc7e9c3-b4e1-401a-8bef-22f1f1bca1e5
 
-Este Zepelín de Hidrógeno con pila de combustible y autotrasformacion de Agua, Hidrógeno, Aire y Fuego Solar; combina la Aeritermia para dotar al mismo de pernanencia en el Aire de forma inteligente. Aunque la reducción de costes no garantiza la supervivencia ni la tolerancia a fallos, cumple las funciones mejoradas de la Segunda Generación de Zepelin WarNet-Air, dando al mismo las capacidades que el mismo WarNet-Air de Operaciones Centralizadas y base de Nodriza de Carga y ML.
+Este Zepelín de Hidrógeno con pila de combustible y autotrasformacion de Agua, Hidrógeno, Aire y Fuego Solar; combina la Aeritermia para dotar al mismo de pernanencia en el Aire de forma inteligente. Aunque la reducción de costes no garantiza la supervivencia ni la tolerancia a fallos, cumple las funciones mejoradas de la Segunda Generación de Zepelin WarNet-Air, dando al mismo las capacidades que el mismo WarNet-Air de Operaciones Centralizadas y base de Nodriza de Carga e IA.
 
 
-En lugar de grandes parabolicas para las señales wifi, este dirigible de Hidrógeno, usa pequeñas pero igualmente potentes antenas con alcances no inferiores y menos necesidad de direccionamiento lo que le facilita la comunicacion a menores altitudes, sin perder su control a grandes alturas, aunque e
+En lugar de grandes parabolicas para las señales wifi, este dirigible de Hidrógeno, usa pequeñas pero igualmente potentes antenas con alcances no inferiores y menos necesidad de direccionamiento lo que le facilita la comunicacion a menores altitudes, sin perder su control a grandes alturas, aunque en ocasiones ante estas puede ser necesario direccionar la antena a su ubicación.  Pero sus facultades autónomas garantizan su vuelo y permanencia en el aire, como la recuperación de su altitud de alcance de comunicación.     
+
+No cuenta con 2 reguladores de carga solares, para el seguimiento solar y aerostático. Reduciendolo a un solo regulador Aerostatico Solar que con la medicación del Aire y una brujula sencilla, orienta la facultad solar al horario, combinado con la mejor ganancia de energia con la medicion y acoplamiento a las rafagas del viento.
+
+Su transporte es mas sencillo, al solo contar con un motor patentado de 2° Gen, y no otros 2 aerogeneradores de dirección.
+Esto convierte el vuelo, tanto la ascensión o descenso en algo necesario de dirigirse en direccionamiento de vuelo, con limites circulares que advierten cuando se llegan a distancias medias de posible pérdida de comunicación, que no obstante la programación de su piloto automático puede corregir para alcanzar la altura deseada, pudiendo coger el control en cualquier momento.
+*(Advertencia sus materiales no son seguros para salidas fuera de la estratosfera y pueden ser dañados y no funcionar su vuelta de seguridad a la navegación de vuelo autonoma. Estas limitaciones avisan siempre que no surjan fallos y su dirigible este en perfecto estado, ademas de segundas medidas de seguridad que marcan la altitud por posicionamiento y en Automático se autoredirige pudiendo adaptarse y sobrevivir a tormentas y vientos elevados que desplacen al mismo de su alcance como podrían ser tornados. No obstante el aerodirigible cuenta con posibilidades de amplion del radio de alcance como de ampliarle sensores y procesos de entrenamiento inteligente de decision Autonoma del Aerodirigible. Contando con distintas capacidades del radio de alcance, desde los +20km a los 50km.)
+
+Con la forma de una lata para su facil transporte, y su doble elice autocambiante a aplicacion eolica y motorizacion, convierten el sistema en altamente eficiente para mantener la estabilidad en el cielo con vuelos con apenas resistencia al aire bajo unos limites de posicionamiento suaves; concediendole la mayor capacidad de estabilidad su flotacion por hidrógeno autogenerado en el motor de pila de combustible que autoregenera y recrea su propio H, H, O. Composicion y descomposicion electrolitica con apenas perdida, con las minimas baterias necesarias, para dotarle de ligereza sin perder la resistencia al aire. 
+Y con su capacidad de detección de falta de energía que le capacitan con antelación suficiente para volver a la base de carga, y no perder el control de posicionamiento quedando como satelite a la deriva dependiente del viento y altitud.
+
+
+Ya hemos comenzado las pruebas de laboratorio y estamos ultimando sus detalles de Lanzamiento.
+
+Puede verlas Aqui.
+
+
+
+
 
