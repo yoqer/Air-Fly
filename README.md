@@ -3,7 +3,7 @@
 El Air-Fly, Gen 2; Es una combinación de 2° Generación que combina toda la funcionalidad del Zepelín Air de WarNet, con el dron Fly; con reducción de recursos al mínimo para el funcionamiento operativo en mínimo espacio y unas menores altitudes. Con apenas medio metro y cerca de los 600$, alcanza la estratosfera y puede permanecer a menor altitud.
 
 
-Hemos reducido componentes al mínimo para poder ofrecer este pequeño Zepelin del Aire reducido con capacidad Autónoma para permanecer el cielo, a menores alturas de la estratosfera, pero muy por encima de las nubes.
+Hemos reducido componentes al mínimo para poder ofrecer este pequeño Zepelin del Aire reducido con capacidad Autónoma para permanecer en el cielo, a menores alturas de la estratosfera, pero ya muy por encima de las nubes.
 
 https://github.com/user-attachments/assets/bfc7e9c3-b4e1-401a-8bef-22f1f1bca1e5
 
