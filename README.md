@@ -7,7 +7,7 @@ Hemos reducido componentes al mínimo para poder ofrecer este pequeño Zepelin d
 
 https://github.com/user-attachments/assets/bfc7e9c3-b4e1-401a-8bef-22f1f1bca1e5
 
-Este Zepelín de Hidrógeno con pila de combustible y autotrasformacion de Agua, Hidrógeno, Aire y Fuego Solar; combina la Aerotermia para dotar al mismo de permanencia en el Aire de forma inteligente. Aunque la reducción de costes no garantiza la supervivencia ni la tolerancia a fallos, cumple las funciones mejoradas de la Segunda Generación de Zepelin WarNet-Air, dando al mismo las capacidades que el mismo WarNet-Air de Operaciones Centralizadas y base de Nodriza de Carga e IA.
+Este Zepelín de Hidrógeno con pila de combustible y autotrasformacion de Agua, Hidrógeno, Aire y Fuego Solar; combina la Aerotermia para dotar al mismo de permanencia en el Aire de forma inteligente. Aunque la reducción de costes no garantiza la supervivencia ni la tolerancia a fallos, cumple las funciones mejoradas de la Segunda Generación de Zepelin WarNet-Air, dando al mismo las capacidades que el mismo WarNet-Air de Operaciones Centralizadas y base a Nave Nodriza de Carga e IA.
 
 
 En lugar de grandes parabolicas para las señales wifi, este dirigible de Hidrógeno, usa pequeñas pero igualmente potentes antenas con alcances no inferiores y menos necesidad de direccionamiento lo que le facilita la comunicacion a menores altitudes, sin perder su control a grandes alturas, aunque en ocasiones ante estas puede ser necesario direccionar la antena a su ubicación.  Pero sus facultades autónomas garantizan su vuelo y permanencia en el aire, como la recuperación de su altitud de alcance de comunicación.     
