@@ -19,12 +19,12 @@ Esto convierte el vuelo, tanto la ascensión o descenso en algo necesario de dir
 *(Advertencia sus materiales no son seguros para salidas fuera de la estratosfera y pueden ser dañados y no funcionar su vuelta de seguridad a la navegación de vuelo autonoma. Estas limitaciones avisan siempre que no surjan fallos y su dirigible este en perfecto estado, ademas de segundas medidas de seguridad que marcan la altitud por posicionamiento y en Automático se autoredirige pudiendo adaptarse y sobrevivir a tormentas y vientos elevados que desplacen al mismo de su alcance como podrían ser tornados. No obstante el aerodirigible cuenta con posibilidades de amplion del radio de alcance como de ampliarle sensores y procesos de entrenamiento inteligente de decision Autonoma del Aerodirigible. Contando con distintas capacidades del radio de alcance, desde los +20km a los 50km.)
 
 Con la forma de una lata para su facil transporte, y su doble elice autocambiante a aplicacion eolica y motorizacion, convierten el sistema en altamente eficiente para mantener la estabilidad en el cielo con vuelos con apenas resistencia al aire bajo unos limites de posicionamiento suaves; concediendole la mayor capacidad de estabilidad su flotacion por hidrógeno autogenerado en el motor de pila de combustible que autoregenera y recrea su propio H, H, O. Composicion y descomposicion electrolitica con apenas perdida, con las minimas baterias necesarias, para dotarle de ligereza sin perder la resistencia al aire. 
-Y con su capacidad de detección de falta de energía que le capacitan con antelación suficiente para volver a la base de carga, y no perder el control de posicionamiento quedando como satelite a la deriva dependiente del viento y altitud.
+Y con su capacidad de detección de falta de energía que le capacitan con antelación suficiente para volver a la base de carga, y no perder control de posicionamiento quedando como satelite a la deriva dependiente del viento y altitud.
 
 
 Ya hemos comenzado las pruebas de laboratorio y estamos ultimando sus detalles de Lanzamiento.
 
-Puede verlas Aqui.
+Puede ver Aqui. Las primeras Pruebas encomendadas para el Protecto Nave Espacial, en las que comenzamos la revisión de pares del Agua Iónica con Hidrógeno, con fines científicos de valerse de este Supercombustible en los Viajes Intergalácticos, con las Recargas Infinitas de Urano y de Pluton. Logrando la mas potente nave [intergalactica](https://youtu.be/hijtWZXzO80?is=iAP--WwmtiO77VML) re-explosiva.
 
 
 
