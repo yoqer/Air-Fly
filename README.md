@@ -12,7 +12,7 @@ Este Zepelín de Hidrógeno con pila de combustible y autotrasformacion de Agua,
 
 En lugar de grandes parabolicas para las señales wifi, este dirigible de Hidrógeno, usa pequeñas pero igualmente potentes antenas con alcances no inferiores y menos necesidad de direccionamiento lo que le facilita la comunicacion a menores altitudes, sin perder su control a grandes alturas, aunque en ocasiones ante estas puede ser necesario direccionar la antena a su ubicación.  Pero sus facultades autónomas garantizan su vuelo y permanencia en el aire, como la recuperación de su altitud de alcance de comunicación.     
 
-No cuenta con 2 reguladores de carga solares, para el seguimiento solar y aerostático. Reduciendolo a un solo regulador Aerostatico Solar que con la medicación del Aire y una brujula sencilla, orienta la facultad solar al horario, combinado con la mejor ganancia de energia con la medicion y acoplamiento a las rafagas del viento.
+No cuenta con 2 reguladores de carga solares, para el seguimiento solar y aerostático. Reduciendolo a un solo regulador Aerostatico Solar que con la medición del Aire y una brujula sencilla, orienta la facultad solar al horario, combinado con la mejor ganancia de energia con la medicion y acoplamiento a las rafagas del viento.
 
 Su transporte es mas sencillo, al solo contar con un motor patentado de 2° Gen, y no otros 2 aerogeneradores de dirección.
 Esto convierte el vuelo, tanto la ascensión o descenso en algo necesario de dirigirse en direccionamiento de vuelo, con limites circulares que advierten cuando se llegan a distancias medias de posible pérdida de comunicación, que no obstante la programación de su piloto automático puede corregir para alcanzar la altura deseada, pudiendo coger el control en cualquier momento.
