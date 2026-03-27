@@ -24,7 +24,7 @@ Y con su capacidad de detección de falta de energía que le capacitan con antel
 
 Ya hemos comenzado las pruebas de laboratorio y estamos ultimando sus detalles de Lanzamiento.
 
-Puede ver Aqui. Las primeras Pruebas encomendadas para el Protecto Nave Espacial, en las que comenzamos la revisión de pares del Agua Iónica con Hidrógeno, con fines científicos de valerse de este Supercombustible en los Viajes Intergalácticos, con las Recargas Infinitas de Urano y de Pluton. Logrando la mas potente nave [intergalactica](https://youtu.be/hijtWZXzO80?is=iAP--WwmtiO77VML) re-explosiva.
+Puede ver Aqui. Las primeras Pruebas encomendadas para el Protecto Nave Espacial, en las que comenzamos la revisión de pares del Agua Iónica con Hidrógeno, con fines científicos de valerse de este Supercombustible en los Viajes Intergalácticos, con las Recargas Infinitas de Urano y de Pluton. Logrando la mas potente nave [intergalactica](https://youtu.be/hijtWZXzO80?is=iAP--WwmtiO77VML) SupeRexplosiva.
 
 
 
