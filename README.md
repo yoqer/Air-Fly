@@ -1,4 +1,4 @@
-# Air-Fly.   +18 🔞
+y# Air-Fly.   +18 🔞
 
 El Air-Fly, Gen 2; Es una combinación de 2° Generación que combina toda la funcionalidad del Zepelín Air de WarNet, con el dron Fly; con reducción de recursos al mínimo para el funcionamiento operativo en mínimo espacio y unas menores altitudes. Con apenas medio metro y cerca de los 600$, alcanza la estratosfera y puede permanecer a menor altitud.
 
@@ -25,6 +25,9 @@ Y con su capacidad de detección de falta de energía que le capacitan con antel
 Ya hemos comenzado las pruebas de laboratorio y estamos ultimando sus detalles de Lanzamiento.
 
 Puede ver Aqui. Las primeras Pruebas encomendadas para el Protecto Nave Espacial, en las que comenzamos la revisión de pares del Agua Iónica con Hidrógeno, con fines científicos de valerse de este Supercombustible en los Viajes Intergalácticos, con las Recargas Infinitas de Urano y de Pluton. Logrando la mas potente nave [intergalactica](https://youtu.be/hijtWZXzO80?is=iAP--WwmtiO77VML) SupeRexplosiva.
+
+Aprovechamos para dar las gracias al Torite.Net patrocinador que ya nos trajo el modelo WarNet-Fly.
+![IMG_20260407_174044](https://github.com/user-attachments/assets/c784343b-a2e2-46f5-9a41-bbabfc2774f7)
 
 
 
