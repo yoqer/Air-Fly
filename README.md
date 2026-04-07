@@ -26,7 +26,7 @@ Ya hemos comenzado las pruebas de laboratorio y estamos ultimando sus detalles d
 
 Puede ver Aqui. Las primeras Pruebas encomendadas para el Protecto Nave Espacial, en las que comenzamos la revisión de pares del Agua Iónica con Hidrógeno, con fines científicos de valerse de este Supercombustible en los Viajes Intergalácticos, con las Recargas Infinitas de Urano y de Pluton. Logrando la mas potente nave [intergalactica](https://youtu.be/hijtWZXzO80?is=iAP--WwmtiO77VML) SupeRexplosiva.
 
-Aprovechamos para dar las gracias a Torete.Net el patrocinador que ya nos trajo el modelo WarNet-Fly.
+Aprovechamos para dar las gracias a Torete.Net el patrocinador que ya nos trajo el modelo pal WarNet-Fly.
 ![IMG_20260407_174044](https://github.com/user-attachments/assets/c784343b-a2e2-46f5-9a41-bbabfc2774f7)
 
 
